@@ -89,7 +89,7 @@ class WhoAmI()
 
 
 <p align="center">
-  <a href="https://linkedin.com/in/diego-santiago-3aaab811a"><img alt="Linkedin" title="Diego Santiago" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://linkedin.com/in/diego-santiago-hernández-3aaab811a/"><img alt="Linkedin" title="Diego Santiago" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/godiex123"><img alt="Github" title="Diego Santiago" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="mailto:diegoa.santiagoh@gmail.com"><img alt="Gmail" title="Diego Santiago Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
  </p>
